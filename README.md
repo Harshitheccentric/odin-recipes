@@ -1,0 +1,1 @@
+This site was created as a project for learning the basics of web development, as part of The Odin Project.
